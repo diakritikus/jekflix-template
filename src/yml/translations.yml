@@ -1,0 +1,41 @@
+translations:
+  text:
+    new_post: "Új poszt"
+    see_also: "Lásd még"
+    search: "Keresés"
+    author: "Szerző"
+    share: "Megosztás"
+    comments: "Kommentek"
+  button:
+    read_now: "Elolvasom"
+    share_on_twitter: "Megosztom Twitter-en"
+    share_on_facebook: "Megosztom Facebook-on"
+  pagination:
+    page: "Oldal"
+    of: "of"
+    next_page: "Következő oldal"
+    next_post: "Előző oldal"
+  recommendation:
+    text: "Olvassok még valamit!"
+    back_btn: "Ugrás az oldal tetejére"
+  error_404:
+    title: "Az oldal nem található :("
+    message: "I'm sorry. We couldn't find the page you are looking for."
+    image_alt: "404 - Page not found"
+  contact:
+    title: "Írj nekem és én válaszolok"
+    subject: "New contact!"
+    submit_btn: "Küldés"
+    placeholders:
+      name: "A neved"
+      email: "Az email címed"
+      message: "Az üzeneted"
+    errors:
+      locale: "hu"
+      empty_name: "A név kötelező"
+      empty_email: "Az email kötelező"
+      invalid_email: "Érvénytelen email"
+      empty_message: "Az üzenet kötelező"
+    after_send:
+      title: "Üzenet elküldve!"
+      message: "Köszönöm az üzenetet, amint tehetem válaszolni fogok."

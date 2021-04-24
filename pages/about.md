@@ -1,17 +1,24 @@
 ---
 layout: page
-title: About
+title: Rólunk
 description: Some description.
 permalink: /about/
 ---
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
 
-# About
+# Mégis mi a baj a magyar nyelvvel?
+Röviden: semmi.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hosszabban: semmi, amit ne mi magunk okoznánk nap mint nap és amit ne lehetne orvosolni.
+
+>Csináltál már adóbevallást? Volt már példa arra, hogy a NAV honlapján utána kellett nézned valamilyen szabályozásnak? Intéztél már bármilyen hivatalos ügyet? Kaptál már hivatalos okiratot, végzést, pecsétest papírt stb.? És könnyű volt megérteni azt a szöveget? Ugye? Na ez a baj.
+
+Rengeteg olyan példa van, amikor a nyelv vadhajtásai terjednek el, mely rontja a közérthetőséget vagy visszatartja a gondolatok szabad áramlását. Mi ilyen témákban szeretnénk diskurzust folyatatni, és azon dolgozunk, hogy ezeket a vadhajtásokat felfedezzük és visszavágjuk.
+
+# Kik vagyunk? 
+Ugyanolyan hétköznapi emberek vagyunk, mint Te. Nem vagyunk nyelvészek, még csak nem is kaptunk ötöst nyelvtanórán a helyesírásunkra az iskolában. De tudatosan használjuk a nyelvünket, törődünk vele, mert azt gondoljuk, hogy a szavaknak teremtő ereje van.
+
+# Mit csinálunk?
+Célunk egy olyan közzösség megalapozása, mely képes a nyelvet olyanná formálni, amilyennek lennie kellene: egy tiszta, világos, könnyen használható, modern eszköz gondolataink kifejezésére.
+

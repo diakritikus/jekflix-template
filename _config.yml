@@ -1,14 +1,47 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Újmagyar
+title: Újmagyar | Hétköznapi nyelvművelők közössége -=- kommentelni ér, gondolkodni kötelező!
+description: Alakítsuk tudatosan a nyelvünket nap mint nap, mert a nyelvünk alakítja a mindennapjainkat.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - fórum
+  - forum
+  - közösség
+  - community
+  - nyelv
+  - language
+  - Hunglish
+  - nyelvművelés
+  - nyelvművelő
+  - nyelvművelők
+  - Mézga Család
+  - MZ/X
+  - Mézga Aladár
+  - Paula
+  - Mézga Kriszta
+  - Mézga Géza
+  - Máris szomszéd
+  - Blöki
+  - Maffia
+  - Kompót
+  - Öcsi
+  - köbüki
+  - újmagyar nyelv
+  - gondolatátvivő kézi készülék
+  - időkibővítő
+  - fényposta
+  - Hufnágel Pisti
+  - egy forintért megmondom
+  - Romhányi József
+  - nyelvújítás
+  - hétköznapi
+  - mindennapi
+  - Álljunk meg egy szóra
+  - Grétsy László
+  - Kazinczy Ferenc
+  - Bessenyei György
+  - nyelvújítás
+  - Magyar Nyelvőr
 show_hero: true
 menu:
   - title: Home
@@ -19,22 +52,22 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: diakritikus@gmail.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: diakritikus
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: mvodgnlk
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+#github_username: github_username
+facebook_username: ujmagyar
+twitter_username: ujmagyar
+instagram_username: ujmagyar
+#linkedin_username: linkedin_username
+#medium_username: medium_username
 
 
 # Posts Settings
@@ -48,7 +81,7 @@ two_columns_layout: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+language: "hu"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
