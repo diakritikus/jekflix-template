@@ -1,19 +1,15 @@
 ---
-date: 2021-04-24T11:57:00.000Z
+date: 2021-04-27T23:44:00.000Z
 layout: post
-title: home office
-subtitle: 'Te is a brit Belügyminisztériumban dolgozol?'
+title: Home office, vagy amit akartok
+subtitle: '- Helló. A nevem Bond, James Bond, és home office-ban dolgozom. - A Belügyminisztériumban? Hát már nem az MI6-nél? - Úgy értem otthonról dolgozom. - WFH? Miért nem ezzel kezdted?'
 description: >-
-  Megjelent a vírus az életünkben, és ezzel új kifejezések is felütötték a fejüket.
-  Kérdés: Hogyan mondják angolul, hogy otthoni munkavégzés, home office? 
-  Válasz: Nem, úgy mondják: work from home.
-  Kérdés: Akkor miért emlegeti mindenki mostanában úgy, hogy home office? 
-  Válasz: Hmmm... nem mindenki, az angol anyanyelvű országokban ilyet nem mondanak.
 image: >-
-  https://res.cloudinary.com/dll9ahbob/image/upload/v1619298095/wfh-baby_x8npt0.jpg
+  https://res.cloudinary.com/dll9ahbob/image/upload/v1619298095/wfh-baby_x8npt0.jpg  
 optimized_image: >-
   https://res.cloudinary.com/dll9ahbob/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1619298095/wfh-baby_x8npt0.jpg
 category: blog
+
 tags:
   - otthoni munkavégzés
   - otthonról dolgozni
@@ -22,47 +18,59 @@ tags:
   - home office
   - blog
   - Hunglish
-  - távmunka
-author: Dia
+  - WFH
+  - work from home
+author: Diakritikus
 paginate: true
 ---
 
 ### TLDR
->Home office-ban vagyok, hangzik el gyakran szóban és írásban is, amikor otthoni munkavégzésről beszélünk. Angolul akarjuk mondani, és a home office kifejezés valamiért megragadt. Ezt mára szinte minden magyar megérti, de a külföldi kollégák lehet, hogy csak pislogni fognak ennek hallatán. Ugyanis angolul a **work from home** kifejezést használják, rövidítve **WFH**, azaz véefhá. Van olyan is, hogy home office angolul, csak mást jelenet.
+Ha otthonról dolgozol, angolul úgy mondják work from home. A home office kifejezést otthoni munkavégzésre a brit és amerikai angolban nem használják.
 
-### Hogyan mondjuk?
->Ha már angolul akarjuk mondani, miért ne mondjuk úgy a magyaroknak is, ahogy azt a világ minden táján megértik, azaz hogy work from home. De mondhatjuk magyarul is, azt, hogy otthonról dolgozok semmivel sem hosszabb vagy nehezebb kimondani, mint hogy home office-ban vagyok.
+### Ez van
+A koronavírus beköszöntével gyakran halljuk és látjuk leírva azt a kifejezést, hogy home office (rövidítve HO), amikor otthoni munkavégzésről van szó. Érdemes tudni, hogy a brit és amerikai angolban ezt úgy mondják, hogy **work from home (rövidítve WFH, kiejtve vé-ef-há)**, angol anyanyelvi közegben otthoni munkavégzésre a home office kifejezést nem használják. 
 
-### Néhány példa
-Tegnap otthonról dolgoztam.
+Hazánkban, és hozzánk hasonló nem angol anyanyelvű országokban viszont hogy, hogy nem, a home office kifejezés szintén elterjedt. Ennek használata viszont félreértésekre adhat okot, mert egyrészt Nagy Britanniában a Belügyminsztériumot nevezik [Home Office](https://en.wikipedia.org/wiki/Home_Office)-nak és rövidítik HO-ként. Másrészt mit gondolsz, milyen a magyar ember angol nyelvtudása? És vajon az ehhez hasonló, angol nyelvtől idegen kifejezések használata vajon hasznos az angol nyelvtudásunk fejlesztéséhez?
 
-Egy héten 3 napot vagyok az irodában és 2 napot otthonról dolgozok.
+### Inkább így
+A fentiek alapján tehát érdemes kerülni a home office kifejezést. Helyette mondhatjuk, hogy work from home vagy informálisan WFH. A magyar otthonról dolgozni, illetve az otthoni munka szintén informális, az otthoni munkavégzés pedig formálisabban fejezi ki ugyanazt.
 
-Az irodát a cég megszüntette, azóta otthonról dolgozok.
+Ha az angolt hívjuk segítségül, amikor ki akarjuk fejezni magunkat magyarul, miért ne olyan angol kifejezést használjunk, amit még maguk az angol anyanyelvűek is megértenek? Talán még hasznos lehet. De ez pont az az eset, amikor magyar otthonról dolgozomot semmivel sem hosszabb vagy nehezebb kimondani, mint az angol megfelelőjét.
 
-Távmunkában egy küldföldi cégnek dolgozok otthonról.
+### Hunglish és más párhuzamos univerzumok
+Képzeljük el a következőt. Géza szellemi munkát végez, egy multinál dolgozik Magyarországon. Reggel bejelentkezik a céges laptopján egy megbeszélésre, és a külföldi kollégáival kedélyesen elbeszélgetnek arról, hogy még mindig otthonról dolgoznak, szörnyű ez a vírushelyzet.
 
-Otthonról dolgozni kimerítő, de legalább többet látom a családot.
+Géza ebben a beszélgetésben a work from home kifejezést használja, miért is használna mást, ha már egyszer a külföldi kollégái is mindig így mondják. A céges megbeszélés közben egyszercsak csöng a privát mobilja, a felesége hívja. Elnézést kér a kollégáktól és felveszi. 
 
-Haver, már egy éve work from home-ozok. 
+  - Paula: Géza, kivitted reggel Blökit sétálni?
+  - Géza: Kértelek drágám, hogy csak fontos dolog miatt hívj reggel, tudod, hogy mióta home office-ban vagyok, egész délelőtt meeting-em van!
 
-### A sztori
+Tehát Géza az angol nyelvű kollégáinak a work from home kifejezéssel mondja el ugyanazt, amit a következő percben a magyar 
+feleségének home office-ként emleget. Tudathasadásos állapot. 
 
-A home office kifejezést az otthoni munkavégzésre használni nem csupán magyar jelenség, más országokban is használják (pl. Németország), de csak nem angol anyanyelvi közegben. Bár ez a kifejezés létezik és más kontextusban valóban angolul is használatos, az otthoni munkavégzés angolul work from home nem pedig home office. A britek még az otthoni munkavégésre gyakorta rendszeresített kis szobát sem home office-nak hanem study room-nak vagy egyszerűen csak study-nak nevezik. 
+Géza jó eséllyel azért mondja a feleségének, hogy home office, mert azt gondolja, hogy ezt magyarul így mondják. Így látta a magyar újságcikkekben és így hallotta a magyar ismerőseitől is. A felesége is így ismeri, otthon egymás között is mindig home office-ként emlegetik az otthoni munkát. Az is lehet, hogy a felesége nem jár angol nyelvű megbeszélésekre, és így nem hallott a work from home kifejezésről. Kár lenne összezavarni, gondolja.
 
-A home office kifejezés 2020 tavaszán, a koronavírus világjárvány kezdetekor, a kényszer szülte otthoni munkavégzés tömeges elterjedésével együtt ütötte fel fejét a nyelvünkben. A vírus terjedése nagyon gyorsan átrendezte mindannyiunk életét, új helyzetet teremtve a családban, bevásárláskor, az utcán, a munkahelyen és természetesen a beszédben is.
+### Nem kell hősnek lenned, de még nyelvésznek sem
+A nyelv mindenkié és senkié. Senki sem irányíthatja, még nyelvész professzorok vagy diktátorok sem, bár igaz, hogy mindkettő megpróbálkozik vele.
 
-Hirtelen a vírus került a középpontba, mindenki erről beszélt, minden cikk erről szólt, amint a korábban az utcán és a parkokban sétáló emberek bekényszerültek a négy fal közé, az irodai dolgozók pedig az irodából az otthoni íróasztal mögé. A home office kifejezés gyorsan gyökeret vert az otthoni íróasztal mellől történő munkavégzés leírására, hiszen mindenki számára ismerős angol szavakból áll és hát mi írhatná le jobban ezt az új helyzetet? Rövidítve HO, mégjobb. 
+A nyelvet valójában a fenti példában szereplő Géza formálja elsősorban. Géza gyakorlott angol meeting résztvevőként ismerte a work from home angol kifejezést, amikor először meghallotta magyarul azt, hogy home office. Kicsit furcsálta ugyan, de mire észbekapott, már mindenki ezt hajtogatta körülötte, így írták az újságok is. Így Gézának eszébe sem jutott megkérdőjelezni a home office létjogosultságát. Pedig ha Géza azt mondta volna, hogy nem home office, ezt úgy mondják, hogy work from home, és veszi a fáradságot, hogy a környezetében élőket megtanítsa rá, akkor most egy másik világban élnénk.
 
-De nézzük meg, mit is kell tudni az otthoni munkavégzésről és az ehhez kapcsolódó angol nyelvi kifejezésekről.
+Két analógia jut eszembe, amik közösen példázzák, hogy hogyan lett a home office kifejezés hirtelen ennyire elterjedt.
 
-Ha angol nyelvi környezetben rákeresünk a home office kifejezésre, a brit Belügyminisztériumra (Home Office) találunk rá elsőnek. Ha tehát Nagy Britanniában a home office-t emlegeted, akkor első körben jó eséllyel azt fogják gondolni, hogy a belügyminisztériumban dolgozol.
+### Egy jó vicc
+Egyrészt a nyelvbe úgy kerülnek be új kifejezések, mint ahogy egy vicc elterjed. Valaki kitalál egy poént, senki sem tudja, hogy ki volt az eredetileg, de nem is érdekes. Ha  elég "jó", sokan továbbmondják a viccet, módosításokkal, hozzáköltéssel, útközben folyamatosan alakul és attól függően, hogy a poén mennyire tud aktuális maradni, mennyire csattanós, a vicc addig fog élni, amíg az emberek ragaszkodnak hozzá. 
 
-Egy kicsit tovább keresve az is kiderül, hogy a home office jelentheti az otthoni irodát is. Van egy rövidítés is, amiben ez szerepel, tudniillik a SOHO (Small Office Home Office) ebben a kontextusban lehet kis- és otthoni irodai környezetre való utalás, például kisvállalati vagy otthoni használatra szánt irodai és hálózati eszközöknél (fénymásoló, fax, router) használatos a SOHO rövidítés.
+A home office rövid, tetszetős, könnyen fogyasztható, és a vírus utáni világban megmaradó otthoni munkavégzés garantálja a hosszan tartó aktuálitását.
 
-Viszont lássuk be, hogy ha az angol anyanyelvű kollégáinknak beszélünk az otthoni munkavégzésről, akkor work from home-ot fogunk mondani, mert ők azt értik meg, ha pedig a magyar kollégáknak beszélünk ugyanerről, akkor home office-t mondunk. 
+### Konyhai kisegítőmunkára elég jó
+Másrészt ismerjük a törénetet, amikor az egyszeri ember felkerekedik, és elmegy Angliába világot látni, pénzt keresni és nem utolsó sorban nyelvet tanulni. Mivel angolul nemigen tud (hiszen ezért is indult neki), csak konyhai kisegítő munkát talál. A munkatársai  hozzá hasonló helyzetűek, alig tudnak angolul, hasonló okokból, hozzá hasonlóan egy másik országból érkeztek, és ez volt az egyetlen munka, amit sikerült megkapniuk. Vajon megtanul angolul ez az ember ebben a környezetben? És amit sikerül megtanulnia, azzal vajon bemegy az étterem vezetőjéhez, hogy fizetésemelést kérjen?
 
-Ez nem más, mint egy alternatív angol nyelv kibontakozása a magyar nyelven belül, mely angol szavakból építkezik, de csak magyarok értik meg. Van erre szükség? Kinek jó ez?
+### Tessék tőlünk tanulni
+A home office kifejezéssel a zsebünkben konyai kisegítők lehetünk ugyan, de az étterem vezetője semmiképpen. Vendégként ugyan beengednek majd az étterembe, ha valaha sikerül összekuporgatni rá a pénzünket, de nem fogjuk érteni a pincért, és nem tudjuk majd elolvasni az étlapot sem.
+
+Ha valaha betévedünk az étterembe, olyanok leszünk, mint egy vicc, és kiröhögnek a pincérek a hátunk mögött. És még csak nem is okolhatunk mást, mert mi magunk döntönttünk így, a home office Gézának megfelelt.
+
+Az egyetlen esélyünk, hogy ha elegen és eleget mondogatjuk a világban azt, hogy home office, és végül ez a kifejezés felvételt nyer az angol nyelvbe. Ekkor majd úgy érezhetjük, hogy mi magyarok jobban tudunk angolul mint a britek vagy az amerikaiak. Hiszen ők is tőlünk tanulnak angolul.
 
 
 

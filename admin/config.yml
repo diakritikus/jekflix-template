@@ -320,7 +320,7 @@ collections:
         file: "src/yml/translations.yml"
         fields:
           - label: "Texts"
-            name: "texts"
+            name: "text"
             widget: "object"
             fields:
               - label: "New Post"
@@ -328,7 +328,7 @@ collections:
                 widget: "string"
                 required: false
               - label: "See also"
-                name: "seel_also"
+                name: "see_also"
                 widget: "string"
                 required: false
               - label: "Search"

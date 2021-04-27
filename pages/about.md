@@ -7,7 +7,7 @@ permalink: /about/
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
 
-# Mégis mi a baj a magyar nyelvvel?
+# Mégis mi a baj a magyar nyelvvel, hogy új kell belőle?
 Röviden: semmi.
 
 Hosszabban: semmi, amit ne mi magunk okoznánk nap mint nap és amit ne lehetne orvosolni.
@@ -20,5 +20,5 @@ Rengeteg olyan példa van, amikor a nyelv vadhajtásai terjednek el, mely rontja
 Ugyanolyan hétköznapi emberek vagyunk, mint Te. Nem vagyunk nyelvészek, még csak nem is kaptunk ötöst nyelvtanórán a helyesírásunkra az iskolában. De tudatosan használjuk a nyelvünket, törődünk vele, mert azt gondoljuk, hogy a szavaknak teremtő ereje van.
 
 # Mit csinálunk?
-Célunk egy olyan közzösség megalapozása, mely képes a nyelvet olyanná formálni, amilyennek lennie kellene: egy tiszta, világos, könnyen használható, modern eszköz gondolataink kifejezésére.
+Célunk egy közzösség, mely a nyelvet olyanná formálja, amilyennek lennie kellene: egy tiszta, világos, könnyen használható, modern eszköz gondolataink kifejezésére.
 
