@@ -1,5 +1,5 @@
 ---
-date: 2021-04-28T15:44:00.000Z
+date: 2021-04-28T10:44:00.000Z
 layout: post
 title: Home office, vagy amit akartok
 subtitle: '- Helló. A nevem Bond, James Bond, és home office-ban dolgozom. - A Belügyminisztériumban? Már nem az MI6-nél? - Úgy értem otthonról dolgozom. - WFH? Miért nem ezzel kezdted?'
@@ -57,9 +57,11 @@ A nyelv mindenkié és senkié. Senki sem irányíthatja, még nyelvész profess
 A nyelvet valójában a fenti példában szereplő Géza formálja elsősorban. Géza nemzetközi környezetben dolgozik, és gyakran vesz részt angol nyelvű megbeszéléseken, ezért ismerte a work from home angol kifejezést amikor először meghallotta magyarul azt, hogy home office. Kicsit furcsállta ugyan, de mire észbe kapott, már mindenki ezt hajtogatta körülötte, így írták az újságok is. Így Gézának eszébe sem jutott megkérdőjelezni a home office létjogosultságát a magyarban. Pedig ha Géza azt mondta volna, hogy nem home office, ezt úgy mondják, hogy work from home, és veszi a fáradságot, hogy a környezetében élőket megtanítsa rá, akkor most egy másik világban élnénk.
 
 ### Közös ügyünk
-A nyelv egy közösségi alkotás, dinamikus, élő rendszer. Mint ilyen, hasonló más közös ügyeinkhez pl. a politika, a közigazgatás vagy olyan banálisnak tűnő dolog, mint az igatlan piac. Minden nap bele is teszünk és ki is veszünk belőlük. Amikor épp kiveszünk, és nem azt kapjuk, amit elvártunk, akkor méltatlankodunk és mást hibáztatunk, és legtöbbször eszünkbe sem jut, hogy azt kapjuk belőle, amit korábban mi magunk tettünk bele.
+A nyelv egy közösségi alkotás, dinamikus, élő rendszer. Mint ilyen, hasonló más közös ügyeinkhez pl. a politika vagy olyan banálisnak tűnő dolog, mint az igatlan piac. Minden nap bele is teszünk és ki is veszünk belőlük. Amikor épp kiveszünk, és nem azt kapjuk, amit elvártunk, akkor méltatlankodunk és hibáztatunk, és legtöbbször eszünkbe sem jut, hogy azt kapjuk belőle, amit korábban mi magunk tettünk bele.
 
 Ha épp házat veszek, azt szeretném, ha az ingatlanok átlátható és összehasonlítható módon lennének elérhetők, hogy gyorsan megtalálhassam a számomra legalkalmasabbat, és tudjam, mennyit adhatok érte. Amikor viszont eladom a házam, mindent megteszek, hogy az ingatlanomról szóló információk a legkevésbé se legyenek transzparensek és összehasonlíthatóak a bevételem maximalizálása érdekében. Ugyanazt a házat ugyanaz az ember egyszer megveszi, máskor eladja, de nem ismer önmagára az ingatlan piac működésében egyik alkalommal sem.
+
+A nyelv esetében sincs ez másként, és talán nem is csoda, ha magyarként angolul kell megnyilvánunk, gyakran érezzük kényelmetlenül magunkat. Többet kellene beletennünk. 
 
 Két analógia jut eszembe, amik együttesen példázzák, hogy hogyan lett a home office kifejezés hirtelen ennyire elterjedt.
 
