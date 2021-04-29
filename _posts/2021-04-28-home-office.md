@@ -59,7 +59,7 @@ A nyelvet valójában a fenti példában szereplő Géza formálja elsősorban. 
 ### Közös ügyünk
 A nyelv egy közösségi alkotás, dinamikus, élő rendszer. Mint ilyen, hasonló más közös ügyeinkhez pl. a politika vagy olyan banálisnak tűnő dolog, mint az igatlan piac. Minden nap bele is teszünk és ki is veszünk belőlük. Amikor épp kiveszünk, és nem azt kapjuk, amit elvártunk, akkor méltatlankodunk és hibáztatunk, és legtöbbször eszünkbe sem jut, hogy azt kapjuk belőle, amit korábban mi magunk tettünk bele.
 
-Ha épp házat veszek, azt szeretném, ha az ingatlanok átlátható és összehasonlítható módon lennének elérhetők, hogy gyorsan megtalálhassam a számomra legalkalmasabbat, és tudjam, mennyit adhatok érte. Amikor viszont eladom a házam, mindent megteszek, hogy az ingatlanomról szóló információk a legkevésbé se legyenek transzparensek és összehasonlíthatóak a bevételem maximalizálása érdekében. Ugyanazt a házat ugyanaz az ember egyszer megveszi, máskor eladja, de nem ismer önmagára az ingatlan piac működésében egyik alkalommal sem.
+Ha épp házat veszek, azt szeretném, ha az ingatlanok átlátható és összehasonlítható módon lennének elérhetők, hogy gyorsan megtalálhassam a számomra legalkalmasabbat, és tudjam, mennyit adhatok érte. Amikor viszont eladom a házam, mindent megteszek, hogy az ingatlanomról szóló információk a legkevésbé se legyenek transzparensek és összehasonlíthatóak. Azt remélem, így többet kapok érte, elvégre minél kevesebb információja van a vevőknek, annál nagyobb eséllyel adják meg azt az árat, amit szeretnék. Talán félek is, mi lesz ha megtudja a nagyvilág, hogy árulom a házamat (vajon mi lenne?). És hát végül, de nem utolsó sorban mindenki más is ezt csinálja. Ugyanazt a házat ugyanaz az ember egyszer megveszi, máskor eladja, de nem ismer önmagára az ingatlan piac működésében egyik alkalommal sem.
 
 A nyelv esetében sincs ez másként, és talán nem is csoda, ha magyarként angolul kell megnyilvánunk, gyakran érezzük kényelmetlenül magunkat. Többet kellene beletennünk. 
 
@@ -76,7 +76,7 @@ A home office kifejezéssel a zsebünkben konyhai kisegítők lehetünk ugyan, d
 
 Ha valaha betévedünk az étterembe, olyanok leszünk, mint egy vicc, kiröhögnek a pincérek a hátunk mögött. És ezért nem okolhatunk mást, mert mi magunk döntöttünk úgy, hogy a home office kifejezés megfelel nekünk.
 
-Az egyetlen esélyünk, hogy ha elég sokszor mondogatjuk a világban azt, hogy home office, és végül ez a kifejezés felvételt nyer az angol nyelvbe. Ha ez bekövetkezik, majd úgy érezhetjük, hogy mi magyarként jobban tudunk angolul, mint a britek és az amerikaiak. Hiszen ők is tőlünk tanulnak angolul. Addig viszont nekünk kellene angolul tanulni tőlük.
+Az egyetlen esélyünk, hogy ha elég sokszor mondogatjuk a világban azt, hogy home office, és végül ez a kifejezés felvételt nyer az angol nyelvbe. Ha ez bekövetkezik, majd úgy érezhetjük, hogy mi magyarként jobban tudunk angolul, mint a britek és az amerikaiak. Hiszen ők is tőlünk tanulnak angolul. Addig viszont nekünk kellene angolul tanulni tőlük, és persze azoktól a magyaroktól, akik már megtanulták ezt a leckét.
 
 
 
