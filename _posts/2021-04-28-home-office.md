@@ -76,7 +76,9 @@ A home office kifejezéssel a zsebünkben konyhai kisegítők lehetünk ugyan, d
 
 Ha valaha betévedünk az étterembe, olyanok leszünk, mint egy vicc, kiröhögnek a pincérek a hátunk mögött. És ezért nem okolhatunk mást, mert mi magunk döntöttünk úgy, hogy a home office kifejezés megfelel nekünk.
 
-Az egyetlen esélyünk, hogy ha elég sokszor mondogatjuk a világban azt, hogy home office, és végül ez a kifejezés felvételt nyer az angol nyelvbe. Ha ez bekövetkezik, majd úgy érezhetjük, hogy mi magyarként jobban tudunk angolul, mint a britek és az amerikaiak. Hiszen ők is tőlünk tanulnak angolul. Addig viszont nekünk kellene angolul tanulni tőlük, és persze azoktól a magyaroktól, akik már megtanulták ezt a leckét.
+Az egyetlen esélyünk ezzel kapcsolatban, hogy ha elég sokszor mondogatjuk a világban azt, hogy home office, és végül felvételt nyer az Oxford Nagyszótárba. Ha ez bekövetkezik, majd úgy érezhetjük, hogy mi magyarként jobban tudunk angolul, mint a britek és az amerikaiak. Hiszen ők is tőlünk tanulnak angolul. Addig viszont nekünk kellene angolul tanulni tőlük, és persze azoktól a magyaroktól, akik már megtanulták ezt a leckét. 
+
+Ti pedig, akik tudjátok, hogyan mondják angolul, ne fogjátok vissza magatokat.
 
 
 
