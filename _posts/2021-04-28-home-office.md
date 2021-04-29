@@ -61,7 +61,7 @@ A nyelv egy közösségi alkotás, dinamikus, élő rendszer. Mint ilyen, hasonl
 
 Ha épp házat veszek, azt szeretném, ha az ingatlanok átlátható és összehasonlítható módon lennének elérhetők, hogy gyorsan megtalálhassam a számomra legalkalmasabbat, és tudjam, mennyit adhatok érte. Amikor viszont eladom a házam, mindent megteszek, hogy az ingatlanomról szóló információk a legkevésbé se legyenek transzparensek és összehasonlíthatóak. Azt remélem, így többet kapok érte, elvégre minél kevesebb információja van a vevőknek, annál nagyobb eséllyel adják meg azt az árat, amit szeretnék. Talán félek is, mi lesz, ha megtudja a nagyvilág, hogy árulom a házamat (vajon mi lenne?). Nekem egyébként is így a legkönnyebb, miért vesződnék alaprajzzal, ha még képek nélkül is feltehetem az ingatlan hirdetésemet? És hát végül, de nem utolsó sorban mindenki más is ezt csinálja, biztos ez a módja. Ugyanazt a házat ugyanaz az ember egyszer megveszi, máskor eladja, de nem ismer önmagára az ingatlan piac működésében egyik alkalommal sem.
 
-A nyelv esetében sincs ez másként, és talán nem is csoda, ha magyarként angolul kell megnyilvánunk, gyakran érezzük kényelmetlenül magunkat. Többet kellene beletennünk. 
+A nyelv esetében sincs ez másként, és talán nem is csoda, ha magyarként angolul kell megnyilvánulnunk, gyakran érezzük kényelmetlenül magunkat. Többet kellene beletennünk. 
 
 Két analógia jut eszembe, amik együttesen példázzák, hogy hogyan lett a home office kifejezés hirtelen ennyire elterjedt.
 
