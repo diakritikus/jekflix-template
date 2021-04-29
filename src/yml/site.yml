@@ -53,7 +53,8 @@ menu:
     url: /feed.xml
 email: diakritikus@gmail.com
 # See: https://disqus.com/
-disqus_username: https://www-ujmagyar-hu
+#disqus_username: https://www-ujmagyar-hu
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: mvodgnlk
+staticman_url: https://kimeljenek-staticman.herokuapp.com/v2/entry/mocza/mocza.github.io/main/comments
