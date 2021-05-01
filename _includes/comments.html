@@ -1,0 +1,73 @@
+{% if site.disqus_username %}
+
+<section class="comments">
+    <h3>{{ site.translations.text.comments | default: "Hozzászólások" }}</h3>
+    <p>
+    Mondd el a véleményed Te is! Kommentelhetsz <b>vendégként</b> vagy <b>regisztrált felhasználóként</b> is. 
+    Kommenteléshez a felhasználói fiók regisztrációját a <a href="https://disqus.com">Disqus</a> szolgáltatás végzi, mellyel ugyanazzal a fiókkal 
+    más blogokon is tudsz kommentelni, illetve könnyen tudod kezelni az összes téged érdeklő blogon a hozzászólásaidat. Ha privát fiókot 
+    regisztrálsz a Disqusnál, akkor is csak a regisztrált felhasználóneved fog megjelenni a hozzászólásaidnál, egyéb információk rólad 
+    (pl. az email címed) mások számára nem látható.
+    </p>
+    <p>
+    <b>Hozzászólás vendégként</b>: Ehhez egyszerűen írdd be a szövegmezőbe a véleményedet és válaszd ki, hogy 
+    <i>Regisztráció nélkül szeretném elküldeni</i>. A kommented a megadott névvel fog megjelenni (moderálás után), ide természetesen bármilyen 
+    nevet írhatsz, az email mező szintén bármit megeszik, ami emailnek látszik, azaz nem szükséges valós email cím megadása 
+    pl. nincs@email.hu. A vendég kommentelés hátránya, hogy nem kapsz értesítést az új kommentekről pl. ha valaki válaszolt neked, 
+    és a korábbi kommentjeidet nem tudod egyszerűen kezelni, egyetlen helyen látni. Ezen kívül a vendég hozzászólások 
+    csak moderálás után jelennek meg, tehát egy kicsit várnod kell, mielőtt meglátod a hozzászólásodat a blogon.
+    Előnye, hogy nem igényel regisztrációt.
+    </p>
+    <p>
+    <b>Hozzászólás regisztrált felhasználóként</b>: Ehhez regisztrálj a disqus.com-on, akár meglévő Facebook stb. fiókoddal, 
+    vagy a kommentjeid kezelésére használt email címmel. Előnye, hogy email értesítést kapsz az új hozzászólásokról, 
+    tehát nem kell a blogot újra és újra megnyitnod, ha meg akarod tudni, vannak-e új kommentek, ráadásul ez az összes hozzászólásodra igaz
+    minden Disqust használó blogon és weboldalon. A regisztrált felhasználói hozzászólások azonnal megjelennek az oldalon, nem kell várnod moderálásra sem. 
+    </p>
+    </div>
+
+    <div id="disqus_thread"></div>
+</section>
+
+<!--
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+/*     var disqus_config = function () {
+    this.page.url = 'http://localhost:3000/';  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = /home-office; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    }; */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://www-ujmagyar-hu.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+-->
+<script type="text/javascript">
+    var disqus_loaded = false;
+
+    function load_disqus()
+    {
+        disqus_loaded = true;
+        var disqus_shortname = '{{site.disqus_username}}';
+        var disqus_title = '{{page.title.replace("'", "\\'")}}';
+        var disqus_url = '{{page.url}}';
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        var ldr = document.getElementById('disqus_loader');
+    };
+    window.onscroll = function(e) {
+        if ((window.innerHeight + window.scrollY) >= (document.body.offsetHeight - 800)) {
+            //hit bottom of page
+            if (disqus_loaded==false)
+                load_disqus()
+        }
+    };
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> -->
+
+{% endif %}
